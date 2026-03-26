@@ -85,7 +85,7 @@ It helps farmers **increase yield**, **reduce water wastage**, and **automate de
 <div align="center">
 
  **Live Application**  
- https://github.com/tanusingh04/smart_irrigation_system
+https://smart-farm-guardian-2026.web.app
 
 <br/><br/>
 
